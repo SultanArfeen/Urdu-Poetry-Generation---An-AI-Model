@@ -36,4 +36,4 @@ Dil ke raaz abhi anjaam tak nahi aaye...
 ## Contributing
 Feel free to submit pull requests or open issues. 🚀
 
-Check out the **[Blog Post](https://medium.com/@sultanarfeen420/urdu-poetry-generation-an-ai-model-52118c57f7b5)**.
+Check out this to learn more **[My Blog Post](https://medium.com/@sultanarfeen420/urdu-poetry-generation-an-ai-model-52118c57f7b5)**.
