@@ -39,19 +39,19 @@ Each generation produces a unique output based on the provided prompt and parame
 
 **Deployment**
 
-**Hugging Face Spaces:**
+1. **Hugging Face Spaces:**
 The live demo of the application is available at:
 https://huggingface.co/spaces/ArfeenSKD/roman-urdu-poetry-generator
 
-**GitHub Repository:**
+2. **GitHub Repository:**
 The complete project code and details can be found at:
 https://github.com/SultanArfeen/Urdu-Poetry-Generation---An-AI-Model
 
-**Medium Blog Post:**
+3. **Medium Blog Post:**
 A detailed account of the project, including data scraping, model training, and deployment insights, is available here:
 https://medium.com/@sultanularfeen/urdu-poetry-generation-an-ai-model-52118c57f7b5
 
-**LinkedIn Post:**
+4. **LinkedIn Post:**
 A summary of the project and my key learnings is available on LinkedIn:
 
 **Contributing**
