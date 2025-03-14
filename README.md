@@ -37,23 +37,27 @@ Raat bhar noor hai, subah se pehle hi.
 ```
 Each generation produces a unique output based on the provided prompt and parameters.
 
-Deployment
-Hugging Face Spaces:
+**Deployment**
+
+**Hugging Face Spaces:**
 The live demo of the application is available at:
 https://huggingface.co/spaces/ArfeenSKD/roman-urdu-poetry-generator
-GitHub Repository:
+
+**GitHub Repository:**
 The complete project code and details can be found at:
 https://github.com/SultanArfeen/Urdu-Poetry-Generation---An-AI-Model
-Medium Blog Post:
+
+**Medium Blog Post:**
 A detailed account of the project, including data scraping, model training, and deployment insights, is available here:
 https://medium.com/@sultanularfeen/urdu-poetry-generation-an-ai-model-52118c57f7b5
-LinkedIn Post:
+
+**LinkedIn Post:**
 A summary of the project and my key learnings is available on LinkedIn:
 
-Contributing
+**Contributing**
 Contributions, suggestions, and improvements are welcome. Please feel free to open issues or submit pull requests in this repository.
 
-License
+**License**
 This project is licensed under the MIT License.
 
 Thank you for exploring my Roman Urdu Poetry Generator project. I hope it inspires you to explore the creative potential of generative AI.
